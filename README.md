@@ -11,3 +11,5 @@
  ⚡ Mi LinkedIn: https://www.linkedin.com/in/jeffersongeldres/
 
  ⚡ Aquí compartiré mis proyectos...
+ 
+# <a name="moderate-with-custom-term-lists-in-the-api-console"></a>Moderar con listas de términos personalizadas en la consola de API
