@@ -1,4 +1,6 @@
-### ¡Bienvenido! 👋
+<img src="https://i.postimg.cc/0jd6M3jN/data.jpg" title="PowerBi" alt="PowerBi" width="3000" height="350"/>
+
+# ¡Bienvenido! 👋
 
  ⚡ Mi nombre es Jefferson y actualmente estoy trabajando en desarrollar mi habilidad técnica en análisis de datos.
 
